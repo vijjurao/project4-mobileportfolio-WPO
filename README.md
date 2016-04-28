@@ -7,17 +7,9 @@
 
 ## Running the websites
 
-  Websites are available through gh-pages. The provided URLs can be copied and
-  pasted into Google's PageSpeed Insights to be analyzed.
-
-
   http://vijjurao.github.io/project4-mobileportfolio-WPO
   
   http://vijjurao.github.io/project4-mobileportfolio-WPO/views/pizza.html
-
-  Paste into here:
-
-  https://developers.google.com/speed/pagespeed/insights/
 
 ## Optimizations - index.html
 
