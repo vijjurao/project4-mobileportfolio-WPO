@@ -1,0 +1,15 @@
+{
+  "name": "views",
+  "version": "0.0.1",
+  "description": "optimize",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vijetha Velishala",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-responsive-images": "^0.1.7"
+  }
+}
