@@ -18,7 +18,7 @@
     <link href="dist/print.min.css" rel="stylesheet" media="print">
 
     <!-- The browser will execute the script asynchronously when possible  -->
-    <script src="http://www.google-analytics.com/analytics.js"></script>
+    <script async src="http://www.google-analytics.com/analytics.js"></script>
     
   </head>
 
@@ -69,6 +69,6 @@
     </div>
        <!-- Used gulp-uglify on all JavaScript files to get rid of whitespace and comments. Then took all 3 files and used gulp-concat
         to concatenate them all into 1 file. Then I placed that file below at the bottom to reduce render blocking. -->
-    <script src="dist/all.min.js"></script>
+    <script async src="dist/all.min.js"></script>
   </body>
 </html>
